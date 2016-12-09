@@ -1,0 +1,170 @@
+{
+    "Mao,Yihui": {
+          
+           "name":"Mao,Yihui",
+           "time":[
+            {"8":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+           
+            {"9":[{"Mon":   {"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"10":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"11":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"12":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"13":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            }, 
+             {"14":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+            {"15":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"16":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"17":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            }
+           ]
+        
+         },
+    "Amy Tang": {
+          
+           "name":"Amy Tang",
+           "time":[
+            {"8":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+            {"8":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+            {"9":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"10":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"11":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"12":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"13":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            }, 
+             {"14":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+            {"15":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"16":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            },
+             {"17":[{"Mon":{"couresID":"cs162","detail":"Jennifer"}},
+                  {"Tue":{"couresID":"cs261","detail":"Rooker"}},
+                  {"Wed":{"couresID":"cs290","detail":"Rob"}},
+                  {"Thr":{"couresID":"cs444","detail":"Kevin"}},
+                  {"Fri":{"couresID":"cs344","detail":"Kevin"}}
+                   ]
+            }
+           ]
+        
+         }
+    
+    }
+        
+
+    
+
+   

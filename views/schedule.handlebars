@@ -1,0 +1,9 @@
+{{> header}}
+
+    <main class="schedule_main">
+        {{#each person.class_info}}
+            {{> simple-schedule}}
+        {{/each}}
+    </main>
+
+{{> add-note-modal}}

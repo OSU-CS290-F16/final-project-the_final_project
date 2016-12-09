@@ -1,0 +1,35 @@
+<div class="add-class-button-container">
+    <button id="add-class-button">+</button>
+</div>
+
+        <div id="modal-backdrop" class='hidden'></div>
+        <div id="add-note-modal" class='hidden'>
+            <div class="modal-dialog">
+                <div class="modal-header">
+                    <h3>Add a Class</h3>
+                    <button type="button" class="modal-close-button">&times;</button>
+                </div>
+                <div class="modal-body">
+                    <div class="todo-input-element required">
+                        <label for="todo-input-what">Class ID</label>
+                        <input type="text" id="todo-input-what">
+                    </div>
+                    <div class="todo-input-element">
+                        <label for="todo-input-weekday">Weekday</label>
+                        <textarea id="todo-input-weekday"></textarea>
+                    </div>
+                    <div class="todo-input-element">
+                        <label for="todo-input-time">Time</label>
+                        <textarea id="todo-input-time"></textarea>
+                    </div>
+                    <div class="todo-input-element">
+                        <label for="todo-input-details">Details</label>
+                        <textarea id="todo-input-details"></textarea>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="modal-cancel-button">Cancel</button>
+                    <button type="button" class="modal-accept-button">Add Class</button>
+                </div>
+            </div>
+        </div>
